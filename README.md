@@ -15,7 +15,7 @@ ChappyFlow is a lightweight daily planner built with React. It gives you a clean
 
 ## Features
 
-- **Task management** — Add tasks with a category and priority level, check them off as you go, and delete ones you no longer need
+- **Task management** — Add tasks with a category and priority level, check them off as you go, and delete once you no longer need
 - **Progress tracking** — A live progress bar and percentage show how much of your day is done at a glance
 - **Priority system** — Color-coded dots (red, amber, green) let you see what needs attention first
 - **Category tags** — Organize tasks under Work, Personal, Health, or Other
@@ -56,7 +56,7 @@ npm install
 ### Running locally
 
 ```bash
-npm start
+npm run dev
 ```
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
@@ -132,4 +132,4 @@ MIT — free to use, modify, and share.
 
 ---
 
-<p align="center">Made with teal and intention ✦</p>
+<p align="center">Made with teal and intention</p>
